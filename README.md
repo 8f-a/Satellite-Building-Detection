@@ -1,6 +1,6 @@
 # Satellite-Building-Detection
 Detection and recognition houses and buildings on satellite radar images taken by the RadarSAT-2 satellite using the YOLOv4 neural network.
-** Term paper presentation, Egor Busko **
+*Term paper presentation, Egor Busko*
 
 ---
 ### Table of Contents  
