@@ -1,4 +1,4 @@
-## some examples of images:
+## some additional images:
 
 ![image](https://github.com/egbusko/Satellite-Building-Detection/assets/60915234/e843c5b8-e257-44b8-b70a-830d772b5479)
 
