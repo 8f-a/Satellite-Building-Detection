@@ -34,8 +34,7 @@ Detection and recognition houses and buildings on satellite radar images taken b
 LIST OF SOURCES USED\
 APPENDIX A\
 APPENDIX B\
+
 ---
-
-
 ![image](https://github.com/egbusko/Satellite-Building-Detection/assets/60915234/b2ef66f7-0d0a-43c7-9833-52fa6964a63d)
 input image example
