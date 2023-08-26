@@ -1,4 +1,3 @@
-![filtered](https://github.com/egbusko/Satellite-Building-Detection/assets/60915234/00e2e39e-e01f-492c-af4b-1f598b438848)
 
 some examples of images:
 ![image](https://github.com/egbusko/Satellite-Building-Detection/assets/60915234/e843c5b8-e257-44b8-b70a-830d772b5479)
