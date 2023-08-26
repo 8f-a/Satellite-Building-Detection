@@ -4,7 +4,7 @@ Detection and recognition houses and buildings on satellite radar images taken b
 
 ---
 ### Table of Contents  
-#### INTRODUCTION ... 5
+#### INTRODUCTION
 #### CHAPTER 1 ANALYZING AND PROCESSING SAR IMAGES ... 6
 1.1 General information about SAR\
 1.2 Characteristics of SAR images\
@@ -30,10 +30,10 @@ Detection and recognition houses and buildings on satellite radar images taken b
    3.2.3 Training the model\
 3.3 Testing and quality assessment of the trained model\
 3.4 Conclusions on Chapter 3
-#### CONCLUSION ... 31
-#### LIST OF SOURCES USED
-#### APPENDIX A
-#### APPENDIX B
+#### CONCLUSION
+LIST OF SOURCES USED\
+APPENDIX A\
+APPENDIX B\
 ---
 
 
