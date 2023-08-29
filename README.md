@@ -40,7 +40,7 @@ Detection and recognition houses and buildings on satellite radar images taken b
 ![image](https://github.com/egbusko/Satellite-Building-Detection/assets/60915234/2c91dfe5-2a4c-4183-8ba6-c0d892f55d55)
 ![image](https://github.com/egbusko/Satellite-Building-Detection/assets/60915234/6920b8ba-c218-4950-bd7b-730ab3dcb3a0)
 ![image](https://github.com/egbusko/Satellite-Building-Detection/assets/60915234/0dd85745-73ca-46cc-adfc-2785494382bd)
-![image](https://github.com/egbusko/Satellite-Building-Detection/assets/60915234/9bb94a49-2fd7-46ef-887f-b3a20fc32fca)
+![image](https://github.com/egbusko/Satellite-Building-Detection/assets/60915234/4df4759b-04e5-41f2-8128-fa058cc8e4d6)
 ![image](https://github.com/egbusko/Satellite-Building-Detection/assets/60915234/4c6a0d88-eada-4c53-afd5-348e3fd57a67)
 ![image](https://github.com/egbusko/Satellite-Building-Detection/assets/60915234/f0fb99e1-980f-4025-881d-b1c149ab8d47)
 ![image](https://github.com/egbusko/Satellite-Building-Detection/assets/60915234/4da4c007-4eac-45d8-877a-1707514206b6)
