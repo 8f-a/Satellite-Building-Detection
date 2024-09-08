@@ -11,3 +11,8 @@
 ![image](https://github.com/egbusko/Satellite-Building-Detection/assets/60915234/f9bc1da0-40a2-4fc9-8cc9-31b5e3e10d6d)
 
 ![image](https://github.com/egbusko/Satellite-Building-Detection/assets/60915234/c2ca3f9a-b796-4dc0-a671-33540ef5b124)
+
+
+
+
+![26348352-e843c5b8-e257-44b8-b70a-80d772b5479](https://github.com/user-attachments/assets/553fd5d-8ef0-4739-b0f9-07eb5e2a3164)
